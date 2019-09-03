@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/setesolutions">
-  <img alt="Logo" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars3.githubusercontent.com/u/52076060?s=460&amp;v=4">
+  <img alt="Logo Sete" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars3.githubusercontent.com/u/52076060?s=460&amp;v=4">
   </a>
 
   <h3 align="center">Bootcamp Rocketseat 8</h3>
